@@ -1,0 +1,12 @@
+#pics{
+	float: left;
+	width: auto;
+	border:2px solid blue;
+	border-radius: 10px;
+}
+#text{
+	float: right;
+	width: 40%;
+	border:2px solid green;
+	border-radius: 10px;
+}

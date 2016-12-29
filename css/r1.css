@@ -1,0 +1,20 @@
+.nav{
+	width: 15%;
+	border:5px solid red;
+	border-radius: 15px;
+}
+.navigation{
+	list-style-type: none;
+	margin: 0;
+	padding: 5px;
+}
+.navigation a{
+	display: block;
+	padding: 2px;
+	text-decoration: none;
+	color:black;
+}
+.navigation a:hover{
+	color: black;
+	background: #aaa;
+}
